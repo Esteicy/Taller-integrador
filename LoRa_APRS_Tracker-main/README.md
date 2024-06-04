@@ -1,5 +1,5 @@
-Sistema de transmision/comunicación de datos basado en APRS
-Grupo 1
+# Sistema de transmision/comunicación de datos basado en APRS
+
 Este repositorio demuestra la implantación de los sistemas APRS, LoRa y Meshtastic. Estas tecnologías ofrecen nuevas aplicaciones al mejorar la conectividad y la eficiencia de la transmisión de datos. Para evaluar su funcionalidad, el dispositivo de seguimiento debe tener la capacidad de visualizar y transmitir datos a las puertas, lo que se facilita utilizando sitios web APRS.
 
 ![Sirve](https://github.com/Esteicy/Taller-integrador/assets/110202568/a563797b-5d6c-48f6-b805-2ed0551c0ddb)
@@ -16,7 +16,7 @@ observar en la Fig. 6, la cu ́al muestra en la l ́ınea de lastRx
 el  ́ultimo transmisor al que logr ́o enviar un mensaje de forma
 exitosa, esta transmisi ́on tambi ́en es visible
 
-# Richonguzman / CA2RXU LoRa APRS Tracker/Station
+Basado al repositorio Richonguzman / CA2RXU LoRa APRS Tracker/Station
 
 
 ____________________________________________________
